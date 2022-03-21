@@ -1,0 +1,68 @@
+.fundamentals_container {
+    width: calc(100% - 3rem);
+    margin: 1.5rem;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.fundamentals_container,
+.fundamentals_container h3,
+.fundamentals_card img,
+.fundamentals_card p {
+    margin-bottom: 1rem;
+}
+
+.fundamentals_wrapper,
+.fundamentals_card {
+    display: flex;
+    flex: 1;
+}
+
+.fundamentals_wrapper {
+    padding: 1.5rem;
+    gap: 2rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+}
+
+.fundamentals_card {
+    flex-direction: column;
+    padding: 1rem;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-top: 2px solid rgb(5, 86, 147);
+    border-radius: 0 0 15px 15px;
+    background-color: rgba(255, 255, 255, 0.4);
+    transition: all 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+
+.fundamentals_card:hover {
+    font-size: large;
+    border-top: 3px solid rgb(5, 86, 147);
+}
+
+#html:hover {
+    background-color: rgb(255, 165, 0, 0.2);
+}
+
+#css:hover {
+    background-color: rgba(5, 86, 147, 0.2);
+}
+
+#javascript:hover {
+    background-color: rgba(223, 231, 106, 0.37);
+}
+
+.fundamentals_card p {
+    font-size: larger;
+}
+
+.fundamentals_card img {
+    justify-self: flex-end;
+    align-self: flex-end;
+    max-height: 50px;
+}
