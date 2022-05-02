@@ -14,3 +14,4 @@ Credits for the images used:
 - https://www.pexels.com/pt-br/foto/codificacao-de-pessoa-no-laptop-574071/
 - https://www.pexels.com/pt-br/foto/empresarios-de-colheita-fechando-negocios-durante-a-jornada-de-trabalho-5668517/
 - https://www.pexels.com/pt-br/foto/caderno-caneca-codificacao-codigo-169573/
+- https://www.pexels.com/pt-br/foto/codificacao-computador-mesa-balcao-4974912/
